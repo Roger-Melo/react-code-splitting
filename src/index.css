@@ -1,0 +1,21 @@
+body {
+  background-color: #2b2c35;
+  color: white;
+}
+
+label {
+  font-size: 1.5rem;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.map-container {
+  height: 20rem;
+  width: 60rem;
+}
